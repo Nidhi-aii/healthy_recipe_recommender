@@ -1,0 +1,12 @@
+id,title,ingredients,tags,cook_time_minutes,servings,instructions,calories,source_url
+1,Moong Dal Chilla,"moong dal;spinach;ginger;green chili;salt;oil","vegetarian;high_protein;low_glycemic;under_30min",20,2,"Soak moong dal, grind with spinach and spices, cook like a pancake on a pan.",250,
+2,Oats Vegetable Upma,"rolled oats;carrot;beans;onion;green chili;ginger;mustard seeds;curry leaves;salt;oil","vegetarian;high_fiber;low_glycemic;under_30min",25,2,"Roast oats, sauté veggies with spices, add water, and cook until fluffy.",280,
+3,Palak Tofu Curry,"tofu;spinach;onion;tomato;ginger;garlic;spices;oil;salt","vegetarian;dairy_free;high_protein;iron_rich",30,3,"Blanch spinach, blend into puree, cook with spices, onion, tomato and add tofu cubes.",320,
+4,Vegetable Quinoa Pulao,"quinoa;carrot;beans;peas;onion;ginger;garlic;spices;oil;salt","vegetarian;gluten_free;high_fiber;protein_rich",25,2,"Sauté vegetables with spices, add washed quinoa and water, cook until done.",350,
+5,Chana Salad,"boiled chickpeas;cucumber;tomato;onion;lemon;chat masala;salt","vegetarian;high_protein;fiber_rich;no_cook",10,2,"Mix boiled chickpeas with chopped vegetables, lemon juice, and seasoning.",220,
+6,Lauki Moong Dal,"bottle gourd;moong dal;ginger;turmeric;spices;salt;oil","vegetarian;low_glycemic;light_meal;high_protein",25,3,"Cook bottle gourd with soaked moong dal and spices, garnish with coriander.",280,
+7,Vegetable Dalia Khichdi,"broken wheat;carrot;beans;peas;onion;ginger;garlic;spices;salt","vegetarian;high_fiber;low_glycemic;one_pot_meal",30,3,"Cook broken wheat with veggies and spices in a pressure cooker until soft.",300,
+8,Stuffed Capsicum with Paneer,"capsicum;paneer;onion;tomato;ginger;garlic;spices;salt;oil","vegetarian;protein_rich;filling_meal",35,2,"Prepare paneer stuffing, fill in capsicum halves, cook covered until tender.",380,
+9,Curd Rice with Flaxseed,"rice;curd;flaxseed;ginger;curry leaves;mustard seeds;green chili;salt","vegetarian;probiotic;fiber_rich;cooling_meal",15,2,"Mix cooked rice with curd and flaxseed, temper with spices and curry leaves.",330,
+10,Lentil Soup,"masoor dal;onion;tomato;garlic;ginger;carrot;spices;salt;oil","vegetarian;high_protein;light_meal;iron_rich",25,3,"Boil lentils with vegetables and spices, blend slightly for creamy texture.",260,
+

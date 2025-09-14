@@ -1,5 +1,14 @@
+<<<<<<< HEAD
 __pycache__/ 
 venv/ 
 .env 
 .vscode/ 
 Thumbs.db 
+=======
+__pycache__/
+venv/
+.env
+*.pyc
+.vscode/
+Thumbs.db
+>>>>>>> 24b40062f93aedba5866264612af6fde0aa3e471
